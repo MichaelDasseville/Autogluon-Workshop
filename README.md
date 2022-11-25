@@ -56,6 +56,8 @@ Amazon SageMaker Studio should already have been provisioned for you.
 - You'll see a list of usernames with a user already created for you
 - Click **Open Studio** next to your username to open SageMaker Studio
 
+![](/static/images/setup/Screenshot 2022-11-25 at 10.27.18.png "Open Sage Maker studio")
+
 A new tab will open to the SageMaker Studio UI for your user, as shown below.
 
 ![](/static/images/setup/Launcher.png "SageMaker Studio launcher screen")
