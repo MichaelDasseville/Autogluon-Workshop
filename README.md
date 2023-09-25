@@ -2,33 +2,6 @@
 
 Follow these instructions to get set up with a SageMaker notebook environment and to clone the [workshop code repository](https://github.com/MichaelDasseville/Autogluon-Workshop.git).
 
-[comment]: < > **Note** >
-[//]: # > Only follow the instructions on this tab if you are at an AWS-hosted event with temporary accounts provided.
-
-[//]: # > **Note**
-[//]: # > Temporary accounts will be terminated after the end of the event. If you want to save any work you've done here, please download it to your local computer.
-
-## Log in to the AWS Workshop Portal
-
-Go to: **[https://dashboard.eventengine.run/](https://dashboard.eventengine.run/)**. You will be redirected to the page below.
-
-![](/static/images/setup/EventEngine-Home.png "Screenshot of Event Engine login page")
-
-Enter the provided **Hash Code** in the text box.
-The button on the bottom right corner changes to **Accept Terms & Login**. Click on that button to continue.
-
-You'll be asked to verify your identity either via an **Email One-Time Password** or logging in with your **Amazon.com retail account**.
-
-![](/static/images/setup/EventEngine-Verify-Methods.png "Event Engine identity verification prompt")
-
-> **Note**
-> When using Email OTP, be sure to enter an email address you have access to so you can retrieve the code.
-<br/><br/>
-Email OTPs may take a few minutes to come through, so please be patient and remember to check your junk folder!
-
-![](/static/images/setup/OTP-Login.png "One Time Password Login")
-
-Once verification is complete, you will be directed to your *team dashboard*:
 
 ## Open the AWS Console
 
