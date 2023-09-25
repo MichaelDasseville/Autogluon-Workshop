@@ -2,7 +2,7 @@
 
 Follow these instructions to get set up with a SageMaker notebook environment and to clone the [workshop code repository](https://github.com/MichaelDasseville/Autogluon-Workshop.git).
 
-[//]: # > **Note**
+[comment]: < > **Note** >
 [//]: # > Only follow the instructions on this tab if you are at an AWS-hosted event with temporary accounts provided.
 
 [//]: # > **Note**
