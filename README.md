@@ -2,19 +2,6 @@
 
 Follow these instructions to get set up with a SageMaker notebook environment and to clone the [workshop code repository](https://github.com/MichaelDasseville/Autogluon-Workshop.git).
 
-
-## Open the AWS Console
-
-You are redirected to the Team Dashboard. Click on **AWS Console**.
-
-![](/static/images/setup/EE-TeamDashboard.png "Event Engine team dashboard after login")
-
-On the next screen, click on **Open Console**.
-
-![](/static/images/setup/open-console-2.png "Event Engine AWS Login dialog")
-
-After opening the AWS Console, please do not change the AWS Region for this event.
-
 ## Navigate to Amazon SageMaker
 
 Use the search bar in the top of the console to open the [Amazon SageMaker Console](https://console.aws.amazon.com/sagemaker/).
