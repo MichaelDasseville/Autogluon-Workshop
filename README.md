@@ -2,11 +2,11 @@
 
 Follow these instructions to get set up with a SageMaker notebook environment and to clone the [workshop code repository](https://github.com/MichaelDasseville/Autogluon-Workshop.git).
 
-> **Note**
-> Only follow the instructions on this tab if you are at an AWS-hosted event with temporary accounts provided.
+[//]: # > **Note**
+[//]: # > Only follow the instructions on this tab if you are at an AWS-hosted event with temporary accounts provided.
 
-> **Note**
-> Temporary accounts will be terminated after the end of the event. If you want to save any work you've done here, please download it to your local computer.
+[//]: # > **Note**
+[//]: # > Temporary accounts will be terminated after the end of the event. If you want to save any work you've done here, please download it to your local computer.
 
 ## Log in to the AWS Workshop Portal
 
