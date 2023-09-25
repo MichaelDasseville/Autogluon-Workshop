@@ -14,10 +14,12 @@ Amazon SageMaker Studio should already have been provisioned for you.
 
 - From the SageMaker Console, click **Amazon SageMaker Studio** in the left sidebar menu
 ![](/static/images/setup/SAgeMakerStudioClick.png "Open Studio")
-- You'll see a list of usernames with a user already created for you
+- Create your SageMaker Domain
+![](/static/images/setup/SageMakerDomainCreate.png "Create SageMaker Domain")
+- Select the quick set up creation
+![](/static/images/setup/DomainQuickSetUp.png "Quick Set Up")
 - Click **Open Studio** next to your username to open SageMaker Studio
-
-![](/static/images/setup/open_sagemaker_studio.png "Open Sage Maker studio")
+![](/static/images/setup/OpenStudio.png "Open Sage Maker studio")
 
 A new tab will open to the SageMaker Studio UI for your user, as shown below.
 
