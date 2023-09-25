@@ -13,6 +13,7 @@ Use the search bar in the top of the console to open the [Amazon SageMaker Conso
 Amazon SageMaker Studio should already have been provisioned for you.
 
 - From the SageMaker Console, click **Amazon SageMaker Studio** in the left sidebar menu
+![](/static/images/setup/SAgeMakerStudioClick.png "Open Studio")
 - You'll see a list of usernames with a user already created for you
 - Click **Open Studio** next to your username to open SageMaker Studio
 
