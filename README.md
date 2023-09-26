@@ -10,8 +10,6 @@ Use the search bar in the top of the console to open the [Amazon SageMaker Conso
 
 ### Open SageMaker Studio
 
-Amazon SageMaker Studio should already have been provisioned for you.
-
 - From the SageMaker Console, click **Amazon SageMaker Studio** in the left sidebar menu
 ![](/static/images/setup/SAgeMakerStudioClick.png "Open Studio")
 - Create your SageMaker Domain
